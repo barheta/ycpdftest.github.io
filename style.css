@@ -120,6 +120,11 @@ label, p {
     border-top: 4px solid transparent;
 }
 
+.table-questionnaire .custom-table-pdf-row td {
+    page-break-inside: auto;
+}
+
+
 .table-questionnaire .custom-table-pdf-row  .custom-table-pdf tr td {
     font-size: 16px;
     border: none;
