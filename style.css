@@ -103,7 +103,7 @@ table {
     width: 100%;
 }
 
-table, table tr, table tr td {
+table, table tr {
     page-break-after: auto;
 }
 
