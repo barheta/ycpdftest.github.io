@@ -101,10 +101,11 @@ sup {
 
 table {
     width: 100%;
+    page-break-after: always;
 }
 
 table tr {
-    page-break-inside: auto;
+    page-break-after: always;
 }
 
 p em {
