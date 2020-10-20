@@ -99,13 +99,9 @@ sup {
     margin-bottom: 40px;
 }
 
-table {
+table, table tr, table tr td {
     width: 100%;
-    page-break-after: always;
-}
-
-table tr {
-    page-break-after: always;
+    page-break-after: auto;
 }
 
 p em {
